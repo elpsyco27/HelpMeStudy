@@ -1,0 +1,11 @@
+.env
+AppData/
+__pycache__/
+*.pyc
+.streamlit/
+app/storage/uploads/*
+app/storage/notes/*
+app/storage/cards/*
+!app/storage/uploads/.gitkeep
+!app/storage/notes/.gitkeep
+!app/storage/cards/.gitkeep
