@@ -6,6 +6,9 @@ __pycache__/
 app/storage/uploads/*
 app/storage/notes/*
 app/storage/cards/*
+app/storage/page_images/*
+app/storage/page_vision_notes/*
 !app/storage/uploads/.gitkeep
 !app/storage/notes/.gitkeep
 !app/storage/cards/.gitkeep
+!app/storage/page_vision_notes/.gitkeep
